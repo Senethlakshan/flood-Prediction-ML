@@ -1,0 +1,67 @@
+/* Hero Section */
+.hero {
+    background: url('/templates/download.jpg') no-repeat center center;
+    background-size: cover;
+    padding: 100px 0;
+    color: #fff;
+}
+
+.hero h1 {
+    font-size: 3.5rem;
+    font-weight: bold;
+}
+
+.hero p {
+    font-size: 1.25rem;
+}
+
+/* Features Section */
+.features .card {
+    border-radius: 0.5rem;
+}
+
+.features .card-title {
+    font-size: 1.5rem;
+}
+
+/* News Section */
+.news .card {
+    border-radius: 0.5rem;
+}
+
+.news .card-title {
+    font-size: 1.25rem;
+}
+
+.news .card-img-top {
+    border-bottom: 1px solid #ddd;
+}
+
+/* Login Section */
+.login {
+    background: #f9f9f9;
+}
+
+.login .form-group {
+    margin-bottom: 1rem;
+}
+
+.login .btn {
+    width: 100%;
+}
+
+/* Contact Section */
+.contact form {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.contact .form-control {
+    border-radius: 0.25rem;
+}
+
+/* Footer */
+footer {
+    background: #333;
+    color: #fff;
+}
